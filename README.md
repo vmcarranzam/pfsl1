@@ -1,2 +1,1 @@
-# pfsl1
-Proyecto Final - Statistical Learning I
+# Proyecto Final - Statistical Learning I
